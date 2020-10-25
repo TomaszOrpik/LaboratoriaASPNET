@@ -8,7 +8,7 @@ namespace NewBrandingStyleWeb.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class Controller : ControllerBase
+    public class Controller : Microsoft.AspNetCore.Mvc.Controller
     {
         public IActionResult Post()
         {
