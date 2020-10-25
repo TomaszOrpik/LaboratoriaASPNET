@@ -76,3 +76,12 @@ C:\Users\Tomek\Desktop\GitHub\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\ne
 C:\Users\Tomek\Desktop\GitHub\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.pdb
 C:\Users\Tomek\Desktop\GitHub\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.genruntimeconfig.cache
 C:\Users\Tomek\Desktop\GitHub\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.csproj.CopyComplete
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.csprojAssemblyReference.cache
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.AssemblyInfoInputs.cache
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.AssemblyInfo.cs
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.csproj.CoreCompileInputs.cache
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.RazorAssemblyInfo.cache
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.RazorAssemblyInfo.cs
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.dll
+C:\Users\sycho\Source\Repos\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Debug\netcoreapp3.1\NewBrandingStyleWeb.pdb
