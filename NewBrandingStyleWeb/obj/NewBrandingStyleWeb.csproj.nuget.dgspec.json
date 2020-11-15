@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sycho\\Source\\Repos\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj": {}
+    "C:\\Users\\sycho\\OneDrive\\Desktop\\LabyASP\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sycho\\Source\\Repos\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj": {
+    "C:\\Users\\sycho\\OneDrive\\Desktop\\LabyASP\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sycho\\Source\\Repos\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj",
+        "projectUniqueName": "C:\\Users\\sycho\\OneDrive\\Desktop\\LabyASP\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj",
         "projectName": "NewBrandingStyleWeb",
-        "projectPath": "C:\\Users\\sycho\\Source\\Repos\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj",
+        "projectPath": "C:\\Users\\sycho\\OneDrive\\Desktop\\LabyASP\\LaboratoriaASPNET\\NewBrandingStyleWeb\\NewBrandingStyleWeb.csproj",
         "packagesPath": "C:\\Users\\sycho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sycho\\Source\\Repos\\LaboratoriaASPNET\\NewBrandingStyleWeb\\obj\\",
+        "outputPath": "C:\\Users\\sycho\\OneDrive\\Desktop\\LabyASP\\LaboratoriaASPNET\\NewBrandingStyleWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,6 +41,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.TeamFoundationServer.Client": {
+              "target": "Package",
+              "version": "[16.153.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
