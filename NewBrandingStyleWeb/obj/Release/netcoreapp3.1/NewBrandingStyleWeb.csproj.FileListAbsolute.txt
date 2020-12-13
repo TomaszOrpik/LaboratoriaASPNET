@@ -1,6 +1,5 @@
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\appsettings.Development.json
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\appsettings.json
-C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\NewBrandingStyleWeb.exe
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\NewBrandingStyleWeb.deps.json
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\NewBrandingStyleWeb.runtimeconfig.json
@@ -99,3 +98,5 @@ C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bi
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
 C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Release\netcoreapp3.1\scopedcss\bundle\NewBrandingStyleWeb.styles.css
+C:\Users\sycho\OneDrive\Desktop\LabyASP\LaboratoriaASPNET\NewBrandingStyleWeb\obj\Release\netcoreapp3.1\Razor\Views\Shared\ItemsList\Index.cshtml.g.cs
